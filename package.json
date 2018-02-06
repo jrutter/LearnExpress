@@ -1,0 +1,23 @@
+{
+  "name": "learnexpress",
+  "version": "1.0.0",
+  "description": "learning express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrutter/LearnExpress.git"
+  },
+  "author": "Jake Rutter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrutter/LearnExpress/issues"
+  },
+  "homepage": "https://github.com/jrutter/LearnExpress#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
